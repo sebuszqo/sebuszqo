@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebuszqo&label=Profile%20views&color=0e75b6&style=flat" alt="sebuszqo" /> </p>
 
-- 🔭 I’m currently **going through college and learning things as: web-development (backend mostly) and in the future: AI, Web3.0, nft, block-chain, etc.**
+- 🔭 I’m currently **going through college and learning things as: web-development (backend mostly), in the future I want: AI, Web3.0, nft, block-chain, etc.**
 
 - 🌱 I’m currently learning **Python JavaScript node.js express.js MongoDB&MySQL TypeScript React NestJS**
 
