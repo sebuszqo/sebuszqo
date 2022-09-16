@@ -1,6 +1,7 @@
 ## Hey 👋, I am Sebastian Knap
 [![Gmail Badge](https://img.shields.io/badge/-sekn.kn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sekn.kn@gmail.com)](mailto:sekn.kn@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/sebastian-knap/?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/sebastianknap-b06014219/)](https://www.linkedin.com/in/https://www.linkedin.com/in/sebastianknap-b06014219/) [![Github Badge](https://img.shields.io/badge/-sebuszqo-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sebuszqo/)](https://www.github.com/sebuszqo/) <p align='left'>I'm a CyberSecurity student of AGH, currently learing new things such as python, node.js, html, css, JavaScript, TypeScript, React etc.  </p>
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/sebastian-knap/?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-knap/)]
+[![Github Badge](https://img.shields.io/badge/-sebuszqo-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sebuszqo/)](https://www.github.com/sebuszqo/) <p align='left'>I'm a CyberSecurity student of AGH, currently learing new things such as python, node.js, html, css, JavaScript, TypeScript, React etc.  </p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=sebuszqo alt=sebuszqo /> </p>
 
