@@ -4,11 +4,11 @@
 
 - 💡 I’m currently **learning things as: web-development (backend mostly), in the future I want to: AI, Web3.0, NFT, block-chain, etc.**
 
-- 🌱 I’m learning **Python JavaScript Node.js Express.js MongoDB & MySQL TypeScript React NestJS**
+- 🌱 I’m learning: **Python JavaScript Node.js Express.js MongoDB & MySQL TypeScript React NestJS**
 
 - 🎓 At present I'm **studying CyberSecurity at the Akademia Górniczo-Hutnicza in Kraków**
 
-- 📫 How to reach me **knapsebastian@proton.me**
+- 📫 How to reach me: **knapsebastian@proton.me or sekn.kn@gmail.com**
 
 - 👨‍💻 I'm kind of 🍎 ecosystem fan
 
