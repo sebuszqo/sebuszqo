@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebuszqo&label=Profile%20views&color=0e75b6&style=flat" alt="sebuszqo" /> </p>
 
-- 💡 I’m currently **learning things as: web-development (backend mostly), in the future I want: AI, Web3.0, NFT, block-chain, etc.**
+- 💡 I’m currently **learning things as: web-development (backend mostly), in the future: AI, Web3.0, NFT, block-chain, etc.**
 
 - 🎓  I'm currently studying CyberSecurity at the Akademia Górniczo-Hutnicza in Kraków.
 
