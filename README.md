@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently **going through college and learning things as: web-development (backend mostly), in the future I want: AI, Web3.0, nft, block-chain, etc.**
 
-- 🌱 I’m currently learning **Python JavaScript node.js express.js MongoDB&MySQL TypeScript React NestJS**
+- 🌱 I’m currently learning **Python JavaScript Node.js Express.js MongoDB&MySQL TypeScript React NestJS**
+
+- 👨‍💻 I'm kind of 🍏 geek
 
 - 📝 I regularly write articles on [Will be in future](Will be in future)
 
