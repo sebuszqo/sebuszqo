@@ -6,7 +6,7 @@
 
 - 🌱 I’m learning **Python JavaScript Node.js Express.js MongoDB & MySQL TypeScript React NestJS**
 
-- 🎓 At present I'm studying CyberSecurity at the Akademia Górniczo-Hutnicza in Kraków.
+- 🎓 At present I'm **studying CyberSecurity at the Akademia Górniczo-Hutnicza in Kraków**
 
 - 📝 I regularly write articles on [Will be in future](Will be in future)
 
