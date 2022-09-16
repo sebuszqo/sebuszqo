@@ -4,9 +4,9 @@
 
 - 💡 I’m currently **learning things as: web-development (backend mostly), in the future: AI, Web3.0, NFT, block-chain, etc.**
 
-- 🌱 I’m currently learning **Python JavaScript Node.js Express.js MongoDB&MySQL TypeScript React NestJS**
+- 🌱 I’m learning **Python JavaScript Node.js Express.js MongoDB&MySQL TypeScript React NestJS**
 
-- 🎓  I'm currently studying CyberSecurity at the Akademia Górniczo-Hutnicza in Kraków.
+- 🎓 At present I'm studying CyberSecurity at the Akademia Górniczo-Hutnicza in Kraków.
 
 - 📝 I regularly write articles on [Will be in future](Will be in future)
 
