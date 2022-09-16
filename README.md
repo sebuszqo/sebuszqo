@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Python JavaScript Node.js Express.js MongoDB&MySQL TypeScript React NestJS**
 
-- 👨‍💻 I'm kind of 🍏 geek
-
 - 📝 I regularly write articles on [Will be in future](Will be in future)
 
 - 📫 How to reach me **knapsebastian@proton.me**
+
+- 👨‍💻 I'm kind of 🍏 ecosystem fan
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
