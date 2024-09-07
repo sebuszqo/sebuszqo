@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sebastian, Junior Software Engineer at Splunk</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebuszqo&label=Profile%20views&color=0e75b6&style=flat" alt="sebuszqo" /> </p>
-- 👨‍💻 In every day job I mainly use: Terraform, AWS, Azure, Gitlab CI/CD, Golang, Kubernetes, Prometheus, Grafana
 
+- 👨‍💻 In every day job I mainly use: Terraform, AWS, Azure, Gitlab CI/CD, Golang, Kubernetes, Prometheus, Grafana
+  
 - 💡 I’m currently **learning things as: web-development (backend mostly), in the future I want to: AI, Web3.0, NFT, block-chain, maybe embedded**
 
 - 🌱 I’m learning: **Python JavaScript Node.js Express.js MongoDB & MySQL TypeScript React NestJS**
