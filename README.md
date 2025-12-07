@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sebastian, Junior Software Engineer at Splunk</h1>
+<h1 align="center">Hi 👋, I'm Sebastian, Software Engineer at Splunk</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebuszqo&label=Profile%20views&color=0e75b6&style=flat" alt="sebuszqo" /> </p>
 
