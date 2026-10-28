@@ -1,6 +1,6 @@
 # Sebastian Knap
 
-Backend engineer in Kraków. I work on the messaging platform at Remitly
+Backend engineer focused on security and infrastructure, based in Kraków Poland. I work on the messaging platform at Remitly
 (Go, SQS, DynamoDB, 1M+ events a day). Before that I spent three years in
 Splunk's Platform Security team on HashiCorp Vault: 41 clusters across
 AWS, Azure and GCP.
