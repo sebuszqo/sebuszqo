@@ -1,33 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sebastian, Software Engineer at Splunk</h1>
+# Sebastian Knap
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sebuszqo&label=Profile%20views&color=0e75b6&style=flat" alt="sebuszqo" /> </p>
+Backend engineer in Kraków. I work on the messaging platform at Remitly
+(Go, SQS, DynamoDB, 1M+ events a day). Before that I spent three years in
+Splunk's Platform Security team on HashiCorp Vault: 41 clusters across
+AWS, Azure and GCP.
 
-- 👨‍💻 In every day job I mainly use: Terraform, AWS, Azure, Gitlab CI/CD, Golang, Kubernetes, Prometheus, Grafana
-  
-- 💡 I’m currently **learning things as: web-development (backend mostly), in the future I want to: AI, Web3.0, NFT, block-chain, maybe embedded**
+- **Mostly writing:** Go, Python, Terraform
+- **Working with:** AWS, Azure, GCP, Kubernetes, Helm, OpenTelemetry, Prometheus, Grafana
+- **Interested in:** secrets and access, workload identity, supply chain security
+- **Studied:** MSc and BEng in Cybersecurity (Cracow University of Technology, AGH)
+- **Community:** co-chair of BRAVE Kraków AI Community
 
-- 🌱 I’m learning: **Python JavaScript Node.js Express.js MongoDB & MySQL TypeScript React NestJS**
+Most of my work lives in private company repos. What's here is mostly
+older side projects from when I was learning.
 
-- 🎓 At present I'm **studying CyberSecurity at the Akademia Górniczo-Hutnicza in Kraków**
-
-- 📫 How to reach me: **knapsebastian@proton.me or sekn.kn@gmail.com**
-
-- 👨‍💻 I'm kind of 🍎 ecosystem fan
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sebastian-knap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian knap" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sekn_kn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sekn_kn" height="30" width="40" /></a>
-<a href="https://discord.gg/#2514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2514" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools that I've touched already or I will:</h3>
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://miro.medium.com/v2/resize:fit:600/1*i2skbfmDsHayHhqPfwt6pA.png" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:600/1*i2skbfmDsHayHhqPfwt6pA.png" alt="golang" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebuszqo&show_icons=true&locale=en&layout=compact" alt="sebuszqo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebuszqo&show_icons=true&locale=en" alt="sebuszqo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebuszqo&" alt="sebuszqo" /></p>
-
+📫 knapsebastian@proton.me · [LinkedIn](https://linkedin.com/in/sebastian-knap)
